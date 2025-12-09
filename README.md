@@ -45,11 +45,3 @@ Both tasks are designed to strengthen Python fundamentals, data handling, visual
 python chatbot.py
 python linear_regression.py
 
-📜 License
-
-This project is released under the MIT License. See the LICENSE file for details.
-
-🙌 Author
-
-K. Chandra Sekhar Reddy
-KL University – Data Science
